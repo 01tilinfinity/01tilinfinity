@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 01tilinfinity</h1>
-<h3 align="center">I'm studying AI, DL, and Backend programming.</h3>
+<h3 align="left">I'm studying AI, DL, and Backend programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01tilinfinity&label=Profile%20views&color=0e75b6&style=flat" alt="01tilinfinity" /> </p>
 
