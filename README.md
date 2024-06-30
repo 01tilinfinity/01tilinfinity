@@ -4,11 +4,6 @@
 </div>
 
 <div align="center">
-  <!-- GitHub Stats -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01tilinfinity)
-</div>
-
-<div align="center">
   <!-- Badges -->
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -25,3 +20,6 @@
   <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" alt="Weights & Biases">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01tilinfinity)
