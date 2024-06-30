@@ -21,7 +21,17 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
 <div align="center">
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=01tilinfinity&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=01tilinfinity&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=01tilinfinity&show_icons=true" />
+</picture>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=01tilinfinity&theme=blue-green" alt="GitHub Streak" /></a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01tilinfinity)
