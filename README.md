@@ -61,7 +61,7 @@
   <p>  </p>
   <p>  </p>
 </div>
-<div align="center">
+<div align="center" style="margin: 20px 0;">
   <!-- Badges -->
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
