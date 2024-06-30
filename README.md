@@ -56,7 +56,7 @@
     </li>
   </ul>
 </div>
-<div>
+<div style="margin: 20px 0;">
   <p>  </p>
   <p>  </p>
   <p>  </p>
