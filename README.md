@@ -39,6 +39,9 @@
     <li>
       2023 2학기 AIKU Conference 최우수상 "팀 어그로:가짜 뉴스 만들기"
     </li>
+    <li>
+      NCSOFT 산학협력 인턴십 최우수인턴
+    </li>
   </ul>
 </div>
 <div align="center">
