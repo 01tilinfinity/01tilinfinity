@@ -43,6 +43,12 @@
       NCSOFT 산학협력 인턴십 최우수인턴
     </li>
   </ul>
+  <h2>More</h2>
+  <ul>
+    <li>
+      "<a href="https://www.linkedin.com/in/%EC%98%88%EB%9E%91-%EA%B9%80-3a95a3288/">LinkedIn</a>"
+    </li>
+  </ul>
 </div>
 <div align="center">
   <!-- Badges -->
