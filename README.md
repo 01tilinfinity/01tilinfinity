@@ -56,6 +56,11 @@
     </li>
   </ul>
 </div>
+<div>
+  <p>  </p>
+  <p>  </p>
+  <p>  </p>
+</div>
 <div align="center">
   <!-- Badges -->
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -73,11 +78,7 @@
   <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" alt="Weights & Biases">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
-<div>
-  <p>  </p>
-  <p>  </p>
-  <p>  </p>
-</div>
+
 <div align="center">
   <picture>
     <source
