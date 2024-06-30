@@ -17,8 +17,14 @@
   <ul>
     <li>
       고려대학교 정보대학 딥러닝 학회 AIKU 1기 수료 (2022.12~2023.12)
+    </li>
+    <li>
       고려대학교 정보대학 컴퓨터학과 분산클라우드컴퓨팅 연구실 학부연구생 (2023.08~2023.12)
-      Google Machine Learning Bootcamp 4기 수료 (2023.09~2023.12)
+    </li>
+    <li>
+    Google Machine Learning Bootcamp 4기 수료 (2023.09~2023.12)
+    </li>
+    <li>
       NCSOFT NLP Center Research Intern (2023.09~2024.02)
     </li>
   </ul>
