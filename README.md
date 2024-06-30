@@ -36,6 +36,9 @@
     <li>
       2023 정보처리학회 추계학술대회 NIPA 원장상 "<a href="https://www.manuscriptlink.com/society/kips/conference/ack2023">동기식 분산 딥러닝 환경에서 배치 사이즈 변화에 따른 모델 학습 성능 분석</a>" 
     </li>
+    <li>
+      2023 2학기 AIKU Conference 최우수상 "팀 어그로:가짜 뉴스 만들기"
+    </li>
   </ul>
 </div>
 <div align="center">
