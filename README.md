@@ -34,7 +34,7 @@
   <h2>Awards</h2>
   <ul>
     <li>
-      2023 정보처리학회 추계학술대회 NIPA 원장상 "<a href="https://www.manuscriptlink.com/society/kips/conference/ack2023/notice/article/980">동기식 분산 딥러닝 환경에서 배치 사이즈 변화에 따른 모델 학습 성능 분석</a>" 
+      2023 정보처리학회 추계학술대회 NIPA 원장상 "<a href="https://www.manuscriptlink.com/society/kips/conference/ack2023">동기식 분산 딥러닝 환경에서 배치 사이즈 변화에 따른 모델 학습 성능 분석</a>" 
     </li>
   </ul>
 </div>
