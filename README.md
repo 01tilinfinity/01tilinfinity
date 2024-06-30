@@ -2,7 +2,8 @@
   <img src="./sandy-cheeks-seeklogo.svg" alt="Sandy Cheeks Logo" width="100" style="margin-right: 10px;" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9AC8CD&text=Sandy's%20Github&height=200&animation=fadeIn&fontColor=003C43" alt="header" height="150" />
 </div>
-<div align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F01tilinfinity&count_bg=%23AAD9BB&title_bg=%2380BCBD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<div align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F01tilinfinity&count_bg=%23AAD9BB&title_bg=%2380BCBD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
 <div align="center">
@@ -92,5 +93,8 @@
   </picture>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=01tilinfinity&theme=blue-green" alt="GitHub Streak" /></a>
 </div>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hs01151116)](https://solved.ac/hs01151116)
+
+<div align="center">
+  <!-- Solved.ac Badge -->
+  <a href="https://solved.ac/hs01151116"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=hs01151116" alt="Solved.ac Profile" /></a>
+</div>
