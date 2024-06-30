@@ -73,7 +73,11 @@
   <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" alt="Weights & Biases">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
-
+<div>
+  <p>  </p>
+  <p>  </p>
+  <p>  </p>
+</div>
 <div align="center">
   <picture>
     <source
