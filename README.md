@@ -5,7 +5,7 @@
 
 <div align="center">
   <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=135D66&random=false&width=435&lines=Welcome+to+Sandy's+Github" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=135D66&random=false&width=435&lines=%20Welcome+to+Sandy's+Github" alt="Typing SVG" /></a>
   </div>
   <!-- Badges -->
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
