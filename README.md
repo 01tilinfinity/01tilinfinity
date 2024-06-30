@@ -6,7 +6,14 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=135D66&random=false&width=435&lines=%3Cdiv%3E%3Cp%3EWelcome+to+Sandy's+Github%3C%2Fp%3E%3C%2Fdiv%3E" alt="Typing SVG" /></a>
 </div>
-
+<div class="text">
+  <h2>Information</h2>
+  <ul>
+    <li>
+      고려대학교 국어국문학과/컴퓨터학과(이중전공) 졸업예정
+    </li>
+  </ul>
+</div>
 <div align="center">
   <!-- Badges -->
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
