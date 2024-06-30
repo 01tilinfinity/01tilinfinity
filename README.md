@@ -49,7 +49,10 @@
       <a href="https://www.linkedin.com/in/%EC%98%88%EB%9E%91-%EA%B9%80-3a95a3288/">LinkedIn</a>
     </li>
     <li>
-      <a href="https://huggingface.co/canho">Hugging Face</a>
+      <a href="https://huggingface.co/canho">Hugging Face🤗</a>
+    </li>
+    <li>
+      Or Mail me via hs01151116@korea.ac.kr ✉️
     </li>
   </ul>
 </div>
