@@ -66,6 +66,9 @@
       2023 2학기 AIKU Conference 최우수상 "<a href="https://github.com/AIKU-Official/aiku-23-2-fake-news-generator?tab=readme-ov-file">팀 어그로:가짜 뉴스 만들기</a>"
     </li>
     <li>
+      2024 1학기 AIKU Conference 우수상 "<a href="https://github.com/AIKU-Official/aiku-24-1-korean_hate_speech_detoxification">욕쟁이 KoMo(RL 기반 한국어 욕설 순화)</a>"
+    </li>
+    <li>
       NCSOFT 산학협력 인턴십 최우수인턴
     </li>
   </ul>
