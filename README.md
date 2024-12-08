@@ -93,14 +93,6 @@
 </div>
 <h2>Stats</h2>
 <div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=01tilinfinity&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=01tilinfinity&show_icons=true" />
-  </picture>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=01tilinfinity&theme=blue-green" alt="GitHub Streak" /></a>
   <a href="https://solved.ac/hs01151116"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=hs01151116" alt="Solved.ac Profile" /></a>
 </div>
 
