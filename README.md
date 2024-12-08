@@ -56,6 +56,9 @@
     <li>
       NCSOFT NLP Center Research Intern (2023.09~2024.02)
     </li>
+    <li>
+      고려대학교 경영대학 소프트웨어창업학회 NEXT 12기 수료 (2024.03~2024.12)
+    </li>
   </ul>
   <h2>Awards</h2>
   <ul>
