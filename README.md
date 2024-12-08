@@ -74,6 +74,9 @@
     <li>
       NCSOFT 산학협력 인턴십 최우수인턴
     </li>
+    <li>
+      NEXT 2024 프로덕트데이 최우수상 <SitU>
+    </li>
   </ul>
   <h2>More</h2>
   <ul>
