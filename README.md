@@ -17,7 +17,7 @@
 
 - 🎓 **Korea University** – Korean Language & Literature / Computer Science (Double Major)  
 - 🎓 **Graduated GPA**: 4.13 / 4.5  
-- 💂 **UDT SEAL Program** Completed  
+- 💂 **UDT/SEAL**(해군특수전전단)   
 - 🔧 **Main Skills**: `Python`, `PyTorch`, `Django`, `MySQL`, `W&B`
 - 🗣️ Fluent in Korean / English  
 - 🌱 Currently exploring `RLHF`, `NLP Detoxification`, and startup product-building
