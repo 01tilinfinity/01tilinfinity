@@ -1,5 +1,3 @@
----
-
 ## 👩‍💻 About Me
 
 - 🎓 **Korea University** – Korean Language & Literature / Computer Science (Double Major)  
