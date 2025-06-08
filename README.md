@@ -1,45 +1,30 @@
-<div align="center">
-  <img src="./sandy-cheeks-seeklogo.svg" alt="Sandy Cheeks Logo" width="100" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9AC8CD&text=Sandy's%20Github&height=200&animation=fadeIn&fontColor=003C43" alt="header" height="150" />
-  
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F01tilinfinity&count_bg=%23AAD9BB&title_bg=%2380BCBD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  </a>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=135D66&random=false&width=435&lines=Welcome+to+Sandy's+GitHub!;Machine+Learning+%7C+NLP+%7C+Django+%7C+W&B" />
-  </a>
-</div>
-
 ---
 
 ## 👩‍💻 About Me
 
 - 🎓 **Korea University** – Korean Language & Literature / Computer Science (Double Major)  
-- 🎓 **Graduated GPA**: 4.13 / 4.5  
-- 💂 **UDT/SEAL**(해군특수전전단)   
+- 🎓 **Graduated GPA**: 4.13 / 4.5    
 - 🔧 **Main Skills**: `Python`, `PyTorch`, `Django`, `MySQL`, `W&B`
 - 🗣️ Fluent in Korean / English / Japanese / Mandarin
-- 🌱 Currently exploring `RLHF`, `NLP Detoxification`, and startup product-building
 
 ---
 
 ## 💼 Experience
 
-- 🇰🇷 고려대 정보대학 딥러닝 학회 **AIKU 1기 수료** (2022.12~2023.12)
-- 🧠 고려대 분산클라우드컴퓨팅 연구실 **학부연구생** (2023.08~2023.12)
+- 🇰🇷 고려대학교 정보대학 딥러닝 학회 **AIKU 1기 수료** (2022.12~2023.12)
+- 🧠 고려대학교 정보대학 컴퓨터학과 분산클라우드컴퓨팅 연구실 **학부연구생** (2023.08~2023.12)
 - 🤖 Google Machine Learning Bootcamp **4기 수료** (2023.09~2023.12)
 - 🧬 NCSOFT **NLP Research Intern** (2023.09~2024.02)
-- 🚀 고려대 경영대학 소프트웨어창업학회 **NEXT 12기** (2024.03~2024.12)
+- 🚀 고려대 경영대학 소프트웨어창업학회 **NEXT 12기 수료** (2024.03~2024.12)
 
 ---
 
 ## 🏆 Awards
 
-- 🏅 **NIPA 원장상** – 동기식 분산 딥러닝 환경 분석  
-- 🥇 **AIKU 23-2 Conference 최우수상** – [가짜 뉴스 생성기](https://github.com/AIKU-Official/aiku-23-2-fake-news-generator)  
-- 🥈 **AIKU 24-1 Conference 우수상** – [KoMo: 욕설 순화 모델](https://github.com/AIKU-Official/aiku-24-1-korean_hate_speech_detoxification)  
-- 🏅 **NCSOFT 최우수 인턴 선정**
+- 🏅 **2023 한국정보처리학회 추계학술대회 클라우드컴퓨팅 트랙 NIPA 원장상 수상** – 동기식 분산 딥러닝 환경에서 배치 사이즈 변화에 따른 모델 학습 성능 분석 
+- 🥇 **AIKU 23-2 Conference 최우수상** – [팀 어그로 : 가짜 뉴스 생성하기](https://github.com/AIKU-Official/aiku-23-2-fake-news-generator)  
+- 🥈 **AIKU 24-1 Conference 우수상** – [KoMo: RLHF 기반 Language Detoxification](https://github.com/AIKU-Official/aiku-24-1-korean_hate_speech_detoxification)  
+- 🏅 **2023 하반기 NCSOFT 우수 인턴**
 - 🥇 **NEXT 2024 Product Day 최우수상** – *SitU*
 
 ---
