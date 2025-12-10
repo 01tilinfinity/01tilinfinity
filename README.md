@@ -1,7 +1,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 **Korea University** – Korean Language & Literature / Computer Science (Double Major)  
-- 🎓 **Graduated GPA**: 4.13 / 4.5    
+- 🎓 **Graduated GPA**: 4.06 / 4.5    
 - 🔧 **Main Skills**: `Python`, `PyTorch`, `Django`, `MySQL`, `W&B`
 - 🗣️ Fluent in Korean / English / Japanese / Mandarin
 - Currently working as a software engineer @Samsung SDS
